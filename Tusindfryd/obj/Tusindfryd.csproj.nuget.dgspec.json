@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tim03\\OneDrive - UCL Erhvervsakademi og Professionshøjskole\\Undervisning\\Tusindfryd\\Tusindfryd\\Tusindfryd\\Tusindfryd.csproj": {}
+    "C:\\Users\\Alexa\\OneDrive - UCL Erhvervsakademi og Professionshøjskole\\Undervisning\\Tusindfryd\\Tusindfryd\\Tusindfryd\\Tusindfryd.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tim03\\OneDrive - UCL Erhvervsakademi og Professionshøjskole\\Undervisning\\Tusindfryd\\Tusindfryd\\Tusindfryd\\Tusindfryd.csproj": {
+    "C:\\Users\\Alexa\\OneDrive - UCL Erhvervsakademi og Professionshøjskole\\Undervisning\\Tusindfryd\\Tusindfryd\\Tusindfryd\\Tusindfryd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tim03\\OneDrive - UCL Erhvervsakademi og Professionshøjskole\\Undervisning\\Tusindfryd\\Tusindfryd\\Tusindfryd\\Tusindfryd.csproj",
+        "projectUniqueName": "C:\\Users\\Alexa\\OneDrive - UCL Erhvervsakademi og Professionshøjskole\\Undervisning\\Tusindfryd\\Tusindfryd\\Tusindfryd\\Tusindfryd.csproj",
         "projectName": "Tusindfryd",
-        "projectPath": "C:\\Users\\tim03\\OneDrive - UCL Erhvervsakademi og Professionshøjskole\\Undervisning\\Tusindfryd\\Tusindfryd\\Tusindfryd\\Tusindfryd.csproj",
-        "packagesPath": "C:\\Users\\tim03\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tim03\\OneDrive - UCL Erhvervsakademi og Professionshøjskole\\Undervisning\\Tusindfryd\\Tusindfryd\\Tusindfryd\\obj\\",
+        "projectPath": "C:\\Users\\Alexa\\OneDrive - UCL Erhvervsakademi og Professionshøjskole\\Undervisning\\Tusindfryd\\Tusindfryd\\Tusindfryd\\Tusindfryd.csproj",
+        "packagesPath": "C:\\Users\\Alexa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alexa\\OneDrive - UCL Erhvervsakademi og Professionshøjskole\\Undervisning\\Tusindfryd\\Tusindfryd\\Tusindfryd\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\tim03\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Alexa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
