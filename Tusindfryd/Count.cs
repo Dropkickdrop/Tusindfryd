@@ -6,7 +6,14 @@ using System.Threading.Tasks;
 
 namespace Tusindfryd
 {
-    internal class COunt
+    internal class Count
     {
+        public DateTime DateCounted;
+        public int AmountCounted;
+        public int CalculatedFinalAmount;
+        public float DeviationPercentage;
+
+        public Count(DateTime dateCounted, int amountCounted, int calculatedFinalAmount, float deviationPercentage)
+        { }
     }
 }

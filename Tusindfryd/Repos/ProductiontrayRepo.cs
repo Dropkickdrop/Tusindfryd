@@ -9,5 +9,7 @@ namespace Tusindfryd.Repos
     internal class ProductiontrayRepo
     {
         private List<Productiontray> productiontrays = new List<Productiontray>();
+        public ProductiontrayRepo()
+        public add
     }
 }

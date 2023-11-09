@@ -8,5 +8,11 @@ namespace Tusindfryd
 {
     internal class Productiontray
     {
+        public string Name;
+        public int Size;
+
+        public Productiontray(string name, int size) {
+            
+        }
     }
 }

@@ -12,6 +12,14 @@ namespace Tusindfryd
         private FlowersortRepo sortRepo;
         private ProductiontrayRepo trayRepo;
 
+        public Controller(FlowersortRepo sortRepo, ProductiontrayRepo trayRepo)
+        {
+            this.sortRepo = sortRepo;
+            this.trayRepo = trayRepo;
+        }   
 
+        public void AddToList(Flowersort flowersort) { }
+
+        public void AddToList(Productiontray tray) { }
     }
 }

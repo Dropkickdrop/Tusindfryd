@@ -13,6 +13,7 @@ namespace Tusindfryd.Repos
         public FlowersortRepo() { }
 
         public void AddFlowersort(Flowersort sort) { }
-        public void RemoveFlowersort(Flowersort sort) { }
+        public void RemoveFlowersort(Flowersort sort) { } 
+        public Flowersort GetFlowersort(Flowersort sort) { }
     }
 }

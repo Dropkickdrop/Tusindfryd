@@ -8,5 +8,7 @@ namespace Tusindfryd
 {
     internal class Coworker
     {
+        public string Initials;
+        public Coworker(string initials) { }
     }
 }

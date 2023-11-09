@@ -8,5 +8,7 @@ namespace Tusindfryd
 {
     internal class Greenhouse
     {
+        public int Number;
+        public Greenhouse(int number) { }
     }
 }
